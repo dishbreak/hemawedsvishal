@@ -1,5 +1,6 @@
 body {
     background-color: #43d1de;
+    font-family: 'Merriweather', serif;
 }
 
 a.navbar-brand {
@@ -12,4 +13,5 @@ a.navbar-brand {
     height: 100%;
     background-size: cover;
     overflow: hidden;
+    font-weight: lighter;
 }
