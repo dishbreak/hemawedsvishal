@@ -2,6 +2,7 @@ body {
     background-color: #43d1de;
     font-family: 'Merriweather', serif;
     padding-top: 65px;
+    border: solid 5px #ff7f2a;
 }
 
 a.navbar-brand {
@@ -15,4 +16,33 @@ a.navbar-brand {
     background-size: cover;
     overflow: hidden;
     font-weight: lighter;
+}
+
+.panel h1 {
+    text-align: center;
+    border-bottom: solid 2px #00d4aa;
+    margin-bottom: 15px;
+}
+
+.jumbotron h1, .panel h1 {
+    color: #ff7f2a;
+}
+
+.jumbotron h2 {
+    color: #00d4aa;
+}
+
+.jumbotron .text {
+    padding: 0px 10px;
+    letter-spacing: -1;
+    line-height: 1.3em;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.7);
+    overflow: none;
+    color: inherit;
+}
+
+.jumbotron .spacer {
+    padding: 0px 5px;
+    color: transparent;
 }
