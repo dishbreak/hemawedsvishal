@@ -1,6 +1,7 @@
 body {
     background-color: #43d1de;
     font-family: 'Merriweather', serif;
+    padding-top: 65px;
 }
 
 a.navbar-brand {
