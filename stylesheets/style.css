@@ -42,13 +42,13 @@ a.navbar-brand {
 }
 
 .top {
-    background: #000 url("/assets/hema-vishal-cover.jpg") center center;
+    background: #000 url("/hemawedsvishal/assets/hema-vishal-cover.jpg") center center;
     background-size: cover;
 }
 
 .bottom {
     padding: 100px;
-    background: #000 url("/assets/hema-vishal-hands.jpg") center center;
+    background: #000 url("/hemawedsvishal/assets/hema-vishal-hands.jpg") center center;
     background-size: cover;
     text-align: center;
 }
