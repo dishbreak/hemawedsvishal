@@ -1,5 +1,7 @@
 body {
-    background-color: #43d1de;
+    background-color: #97dedb;
+    background-image: url("/hemawedsvishal/assets/paisley.jpg");
+    background-repeat: repeat;
     font-family: 'Merriweather', serif;
     padding-top: 65px;
     border: solid 5px #ff7f2a;
