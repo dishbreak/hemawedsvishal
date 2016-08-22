@@ -66,4 +66,16 @@ a.navbar-brand {
 
 #monogram-top {
     text-align: center;
+    padding-bottom: 15px;
+}
+
+#map-container {
+    width: 100%;
+    height: 100%;
+}
+
+#map-outer {
+    width: 100%;
+    height: 400px;
+    padding-bottom: 15px;
 }
