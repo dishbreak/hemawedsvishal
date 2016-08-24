@@ -1,6 +1,6 @@
 # What's this?
 
-This is the source code for my wedding site. I used GitHub Pages to host the site, and it's available at [hemawedsvishal.com](hemawedsvishal.com).
+This is the source code for my wedding site. I used GitHub Pages to host the site, and it's available at [hemawedsvishal.com](http://hemawedsvishal.com).
 
 # Will I find this useful? 
 
